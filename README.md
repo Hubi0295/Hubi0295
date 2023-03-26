@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A student CS in Politechnika Lubelska</h3>
+<h3 align="center">A CS student at Politechnika Lubelska</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubi0295&label=Profile%20views&color=0e75b6&style=flat" alt="hubi0295" /> </p>
 
