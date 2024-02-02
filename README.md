@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**, **Spring**, **Selenium**
 
-- 📫 How to reach me **https://www.linkedin.com/in/hubert-szelepusta-202342232/**
+- 📫 How to reach me **https://www.linkedin.com/in/hubert-szelepusta/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
