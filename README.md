@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubi0295&label=Profile%20views&color=0e75b6&style=flat" alt="hubi0295" /> </p>
 
-- 🌱 I’m currently learning **Java**, **Spring**, **Selenium**
+- 🌱 I’m currently learning **Java**, **Spring**, **Angular**, **Selenium**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hubert-szelepusta/**
 
