@@ -29,7 +29,6 @@ In Progress
 
 # 📜 My Certificates
 
-Welcome! Below is a list of my certificates that I have earned over the years. Each one confirms my skills in various fields.
 
 ## 📌 Certificate and course list
 
