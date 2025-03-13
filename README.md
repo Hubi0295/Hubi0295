@@ -15,7 +15,7 @@
 <p><a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a></p>  
 
 
-###  PHP(Laravel) | Javascript(ReactJS) | SQLite University project  
+###  PHP(Laravel) | JavaScript(React) | SQLite University project  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
 
 
@@ -23,7 +23,7 @@
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
-###  Javascript(NodeJS, Express, React) | MongoDB University project  
+###  JavaScript(NodeJS, Express, React) | MongoDB University project  
 In Progress  
 
 
