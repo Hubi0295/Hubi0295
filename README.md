@@ -52,7 +52,7 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 
 
 ###  Python(Django) University project  
-<p><a href = "https://github.com/Hubi0295/MyFin"  target=_blank>Projekt aplikacji do zarządzania kontaktami</a></p>  
+<p><a href = "https://github.com/Hubi0295/MyFin"  target="_blank">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
 ###  Javascript(NodeJS, Express, React) | MongoDB University project  
