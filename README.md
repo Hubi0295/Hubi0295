@@ -49,7 +49,7 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 |      -       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
 |      -       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
 |      -       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
-|      -       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Attendance  
+|      -       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion  
 |      -       | **Red Hat System Administration II (RH134)**                        | 📍RedHat                                                    | 🔄Ongoing  
 |      -       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                     | ✅Certificate of Course Completion  
 |      -       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
