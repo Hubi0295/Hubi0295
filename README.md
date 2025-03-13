@@ -40,14 +40,22 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
 |      -       | **Praktyczne zastosowania i integracja z modelami LLM**                        | 📍Politechnika Lubelska & Sollers Consulting    | 🔄Ongoing  
 
-# Projects
-## Java(Spring) | Typescript(Angular) | Postgres  
+#  Projects
+
+
+##  Java(Spring) | Typescript(Angular) | Postgres  
 <p><a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a></p>  
-## PHP(Laravel) | Javascript(ReactJS) | SQLite  
+
+
+##  PHP(Laravel) | Javascript(ReactJS) | SQLite  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
-## Python(Django)  
+
+
+##  Python(Django)  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
-## Javascript(NodeJS, Express, React) | MongoDB  
+
+
+##  Javascript(NodeJS, Express, React) | MongoDB  
 In Progress  
 
 
