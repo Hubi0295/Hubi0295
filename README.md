@@ -15,7 +15,7 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 | 📅 Date          | 🏆 Certificate                                                     | 📍 Organization          | ✅ Type      
                                                                    Software  
 |--------------|-----------------------------------------------------------------|-----------------------------------------------------------|  
-|      -       | (2025) Angular i Java Spring Od zera do Fullstack developera&emsp    | 📍Udemy                                                    | ✅Certificate of Course Completion  
+|      -       | (2025) Angular i Java Spring Od zera do Fullstack developera &emsp    | 📍Udemy                                                    | ✅Certificate of Course Completion  
 |      -       | SQL Server 2012 Querying (70-461) Part 1&emsp                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | SQL Server 2012 Querying (70-461) Part 2&emsp                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | Java - Spring Framework&emsp                                         | 📍Udemy                                                     | ✅Certificate of Course Completion  
