@@ -12,16 +12,18 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 
 ## 📌 Certificate and course list
 
-| 📅 Date          | 🏆 Certificate                                                     | 📍 Organization          | ✅ Type      
-                                                                   Software  
-|--------------|-----------------------------------------------------------------|-----------------------------------------------------------|  
-|      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**    | 📍Udemy                                                    | ✅Certificate of Course Completion  
+
+##                                                                    Software  
+----------------------------------------------------------------------------------------------------------------------------------------------  
+|      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**<t>    | 📍Udemy                                                    | ✅Certificate of Course Completion  
 |      -       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
 |      -       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | 🔄Ongoing  
-                                                   Cybersecurity, Networking, Administration  
-|--------------|-----------------------------------------------------------------|-----------------------------------------------------------|  
+
+
+##                                                   Cybersecurity, Networking, Administration  
+----------------------------------------------------------------------------------------------------------------------------------------------
 |      -       | **Ekspert bezpieczeństwa OSSTMM**                                | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
 |      -       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
 |      -       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
@@ -32,8 +34,11 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 |      -       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
 |      -       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                     | ✅Certificate of Course Completion  
 |      -       | **Wprowadzenie do cyberbezpieczeństwa**                             | 📍CISCO                                                     | ✅Certificate of Course Completion  
-  
 
+
+##                                                   Artificial Intelligence
+---------------------------------------------------------------------------------------------------------------------------------------------- 
+|      -       | **Praktyczne zastosowania i integracja z modelami LLM**                        | 📍Politechnika Lubelska & Sollers Consulting    | 🔄Ongoing  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hubert-szelepusta-202342232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hubert-szelepusta-202342232/" height="30" width="40" /></a>
