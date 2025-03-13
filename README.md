@@ -19,7 +19,7 @@
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
 
 
-###  Python(Django) University project  
+###  Python(Django) | SQLite University project  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
