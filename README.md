@@ -41,14 +41,16 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 |      -       | **Praktyczne zastosowania i integracja z modelami LLM**                        | 📍Politechnika Lubelska & Sollers Consulting    | 🔄Ongoing  
 
 # Projects
-Java(Spring) | Typescript(Angular) | Postgres  
-<p><a href = "[https://github.com/Hubi0295/projektwspolny](https://github.com/Hubi0295/projektwspolny)">Projekt sklepu internetowe w architekturze mikroserwisów</a></p>  
-PHP(Laravel) | Javascript(ReactJS) | SQLite  
-<p><a href = "[https://github.com/Hubi0295/projektwspolny](https://github.com/Hubi0295/MyFin)">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
-Python(Django)  
-<p><a href = "[https://github.com/Hubi0295/projektwspolny](https://github.com/Hubi0295/MyFin)">Projekt aplikacji do zarządzania kontaktami</a></p>  
-Javascript(NodeJS, Express, React) | MongoDB  
+## Java(Spring) | Typescript(Angular) | Postgres  
+<p><a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a></p>  
+## PHP(Laravel) | Javascript(ReactJS) | SQLite  
+<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
+## Python(Django)  
+<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
+## Javascript(NodeJS, Express, React) | MongoDB  
 In Progress  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hubert-szelepusta-202342232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hubert-szelepusta-202342232/" height="30" width="40" /></a>
