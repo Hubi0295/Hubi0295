@@ -13,7 +13,7 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 
 ## 📌 Certificate and course list
 
-| 📅 Date      | 🏆 Certificate                                                 | 📍 Organization      | ✅ Type  
+| 📅 Date          | 🏆 Certificate                                                     | 📍 Organization          | ✅ Type      
                                                                    Software  
 |--------------|-----------------------------------------------------------------|-----------------------------------------------------------|  
 |      -       | (2025) Angular i Java Spring Od zera do Fullstack developera    |  Udemy                                                    | Certificate of Course Completion  
