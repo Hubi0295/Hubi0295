@@ -43,19 +43,19 @@ Welcome! Below is a list of my certificates that I have earned over the years. E
 #  Projects
 
 
-###  Java(Spring) | Typescript(Angular) | Postgres  
+###  Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
 <p><a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a></p>  
 
 
-###  PHP(Laravel) | Javascript(ReactJS) | SQLite  
+###  PHP(Laravel) | Javascript(ReactJS) | SQLite University project  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
 
 
-###  Python(Django)  
+###  Python(Django) University project  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
-###  Javascript(NodeJS, Express, React) | MongoDB  
+###  Javascript(NodeJS, Express, React) | MongoDB University project  
 In Progress  
 
 
