@@ -11,23 +11,23 @@
 #  ⭐Projects
 
 
-###  Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
-<p>🚀<a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a> In Progress</p>  
+###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
+<p><a href = "https://github.com/Hubi0295/projektwspolny">Projekt sklepu internetowe w architekturze mikroserwisów</a> In Progress</p>  
 
 
-###  PHP(Laravel) | JavaScript(React) | SQLite University project  
-<p>🚀<a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
+###  🚀 PHP(Laravel) | JavaScript(React) | SQLite University project  
+<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
 
 
-###  Python(Django) | SQLite University project  
-<p>🚀<a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
+###  🚀 Python(Django) | SQLite University project  
+<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
-###  JavaScript(NodeJS, Express, React) | MongoDB University project  
+###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project  
 In Progress  
 
-###  Java(Selenium) UDEMY COURSE  
-<p>🚀
+###  🚀 Java(Selenium) UDEMY COURSE  
+<p>
   <a href="https://github.com/Hubi0295/SeleniumProject">Projekt testowania aplikacji: </a>    |  
   <a href="http://seleniumdemo.com/"> pod adresem Selenium Demo</a>
 </p>
