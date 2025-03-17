@@ -26,6 +26,9 @@
 ###  JavaScript(NodeJS, Express, React) | MongoDB University project  
 In Progress  
 
+###  Java(Selenium) UDEMY COURSE  
+<p><a href = "https://github.com/Hubi0295/SeleniumProject">Projekt testowania aplikacji </a><a href="http://seleniumdemo.com/">Selenium Demo</a></p>
+
 
 # 📜 My Certificates
 
