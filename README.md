@@ -28,7 +28,7 @@ In Progress
 
 ###  Java(Selenium) UDEMY COURSE  
 <p>
-  <a href="https://github.com/Hubi0295/SeleniumProject">Projekt testowania aplikacji: </a>  |  |
+  <a href="https://github.com/Hubi0295/SeleniumProject">Projekt testowania aplikacji: </a>     
   <a href="http://seleniumdemo.com/"> pod adresem Selenium Demo</a>
 </p>
 
