@@ -41,11 +41,11 @@ In Progress
 
 ##                                                                    Software  
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-|      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**<t>    | 📍Udemy                                                    | ✅Certificate of Course Completion  
+|      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**<t>    | 📍Udemy                                                    | 🔄Ongoing   
 |      -       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      -       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
-|      -       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | 🔄Ongoing  
+|      -       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | ✅Certificate of Course Completion
 
 
 ##                                                   Cybersecurity, Networking, Administration  
