@@ -20,7 +20,7 @@
 
 
 ###  🚀 Python(Django) | SQLite University project  
-<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania kontaktami</a></p>  
+<p><a href = "https://github.com/Hubi0295/AddressBook-Studia-">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
 ###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project  
