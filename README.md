@@ -12,8 +12,8 @@
 
 
 ###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów</a> In Progress</p>  
-
+<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a> In Progress</p>  
+<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a> In Progress</p>  
 
 ###  🚀 PHP(Laravel) | JavaScript(React) | SQLite University project  
 <p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
