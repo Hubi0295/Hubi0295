@@ -42,30 +42,34 @@ In Progress
 ##                                                                    Software  
 ----------------------------------------------------------------------------------------------------------------------------------------------  
 |      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**<t>    | 📍Udemy                                                    | 🔄Ongoing   
-|      -       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
-|      -       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
-|      -       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
-|      -       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | ✅Certificate of Course Completion
+|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
+|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
+|      14.03.2024       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
+|      3.02.2024       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | ✅Certificate of Course Completion
 
 
 ##                                                   Cybersecurity, Networking, Administration  
 ----------------------------------------------------------------------------------------------------------------------------------------------
-|      -       | **Ekspert bezpieczeństwa OSSTMM**                                | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
-|      -       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
-|      -       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
-|      -       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | 🏆Certificate  
-|      -       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion  
+|      9.02.2025       | **Ekspert bezpieczeństwa OSSTMM**                                | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
+|      17.01.2025       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
+|      15.12.2024       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
+|      17.11.2024       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
+|      18.02.2025       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion  
 |      -       | **Red Hat System Administration II (RH134)**                        | 📍RedHat                                                    | 🔄Ongoing  
-|      -       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      -       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      -       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      -       | **Wprowadzenie do cyberbezpieczeństwa**                             | 📍CISCO                                                     | ✅Certificate of Course Completion  
+|      19.11.2024       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                     | ✅Certificate of Course Completion  
+|      01.11.2024       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
+|      22.10.2024       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                     | ✅Certificate of Course Completion  
+|      21.10.2024       | **Wprowadzenie do cyberbezpieczeństwa**                             | 📍CISCO                                                     | ✅Certificate of Course Completion  
 
 
 ##                                                   Artificial Intelligence
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
 |      -       | **Praktyczne zastosowania i integracja z modelami LLM**                        | 📍Politechnika Lubelska & Sollers Consulting    | 🔄Ongoing  
 
+
+##                                                   English
+---------------------------------------------------------------------------------------------------------------------------------------------- 
+|      01.10.2024 - 30.06.2025       | **B2 English Course**                        | 📍Avalon    | 🔄Ongoing  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
