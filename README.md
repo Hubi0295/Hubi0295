@@ -11,14 +11,14 @@
 #  ⭐Projects
 
 
-###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a></p>  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a></p>  
-
-
 ###  🚀 Java(Spring) | Typescript(Angular) | Postgres Bachelor’s engineering thesis
 <p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Backend Under construction</a></p>  
 <p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Frontend Under construction</a></p>  
+
+
+###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
+<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a></p>  
+<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a></p>  
 
 
 ###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project
