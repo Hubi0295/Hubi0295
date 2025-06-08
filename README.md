@@ -54,8 +54,7 @@ In Progress
 |      17.01.2025       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
 |      15.12.2024       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
 |      17.11.2024       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
-|      18.02.2025       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion  
-|      -       | **Red Hat System Administration II (RH134)**                        | 📍RedHat                                                    | 🔄Ongoing  
+|      18.02.2025       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion   
 |      19.11.2024       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                     | ✅Certificate of Course Completion  
 |      01.11.2024       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
 |      22.10.2024       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                     | ✅Certificate of Course Completion  
