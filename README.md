@@ -23,8 +23,14 @@
 <p><a href = "https://github.com/Hubi0295/AddressBook-Studia-">Projekt aplikacji do zarządzania kontaktami</a></p>  
 
 
-###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project  
-In Progress  
+###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project
+<p><a href = "https://github.com/Hubi0295/projektintegracjabe">Projekt aplikacji do porównywania wskaźników makroekonomicznych oraz świadczeń społecznych z użyciem danych zewnętrznych dostawców Backend</a></p>  
+<p><a href = "https://github.com/Hubi0295/projektintegracjafe">Projekt aplikacji do porównywania wskaźników makroekonomicznych oraz świadczeń społecznych z użyciem danych zewnętrznych dostawców Frontend</a></p>  
+
+
+###  🚀 JavaScript(NodeJS, Express, React, Typescript) | MongoDB University project 
+<p><a href = "https://github.com/Hubi0295/restaurantReviewsApp-HS-BE">Projekt aplikacji do recenzji restauracji Backend</a></p>  
+<p><a href = "https://github.com/Hubi0295/restaurantReviewsApp_HS">Projekt aplikacji do recenzji restauracji Frontend</a></p>  
 
 ###  🚀 Java(Selenium) UDEMY COURSE  
 <p>
