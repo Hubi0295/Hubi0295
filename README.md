@@ -12,15 +12,13 @@
 
 
 ###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a> In Progress</p>  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a> In Progress</p>  
-
-###  🚀 PHP(Laravel) | JavaScript(React) | SQLite University project  
-<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
+<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a></p>  
+<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a></p>  
 
 
-###  🚀 Python(Django) | SQLite University project  
-<p><a href = "https://github.com/Hubi0295/AddressBook-Studia-">Projekt aplikacji do zarządzania kontaktami</a></p>  
+###  🚀 Java(Spring) | Typescript(Angular) | Postgres Bachelor’s engineering thesis
+<p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Backend Under construction</a></p>  
+<p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Frontend Under construction</a></p>  
 
 
 ###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project
@@ -31,6 +29,15 @@
 ###  🚀 JavaScript(NodeJS, Express, React, Typescript) | MongoDB University project 
 <p><a href = "https://github.com/Hubi0295/restaurantReviewsApp-HS-BE">Projekt aplikacji do recenzji restauracji Backend</a></p>  
 <p><a href = "https://github.com/Hubi0295/restaurantReviewsApp_HS">Projekt aplikacji do recenzji restauracji Frontend</a></p>  
+
+
+###  🚀 PHP(Laravel) | JavaScript(React) | SQLite University project  
+<p><a href = "https://github.com/Hubi0295/MyFin">Projekt aplikacji do zarządzania finansami oraz inwestycjami</a></p>  
+
+
+###  🚀 Python(Django) | SQLite University project  
+<p><a href = "https://github.com/Hubi0295/AddressBook-Studia-">Projekt aplikacji do zarządzania kontaktami</a></p>  
+
 
 ###  🚀 Java(Selenium) UDEMY COURSE  
 <p>
