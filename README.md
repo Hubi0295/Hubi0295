@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubi0295&label=Profile%20views&color=0e75b6&style=flat" alt="hubi0295" /> </p>
 
-- 🌱 I’m currently learning **Java**, **Spring**, **Angular**, **Selenium**
+- 🌱 I’m currently learning **Java**, **SpringBoot**, **React**, **Docker**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hubert-szelepusta/**
 
@@ -54,7 +54,7 @@
 
 ##                                                                    Software  
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-|      -       | **(2025) Angular i Java Spring Od zera do Fullstack developera**<t>    | 📍Udemy                                                    | 🔄Ongoing   
+|      01.07.2025       | **(2025) Angular i Java Spring Od zera do Fullstack developera**    | 📍Udemy                                                    | ✅Certificate of Course Completion  
 |      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
 |      14.03.2024       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
@@ -76,12 +76,12 @@
 
 ##                                                   Artificial Intelligence
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
-|      -       | **Praktyczne zastosowania i integracja z modelami LLM**                        | 📍Politechnika Lubelska & Sollers Consulting    | 🔄Ongoing  
+|      20.03.2025 - 30.06.2025       | **Praktyczne zastosowania i integracja z modelami LLM**           | 📍Politechnika Lubelska & Sollers Consulting    | ✅Certificate of Course Completion 
 
 
 ##                                                   English
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
-|      01.10.2024 - 14.06.2025       | **B2 English Course**                        | 📍Avalon    | 🔄Ongoing  
+|      01.10.2024 - 14.06.2025       | **B2 English Course**                        | 📍Avalon    | ✅Certificate of Course Completion  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
