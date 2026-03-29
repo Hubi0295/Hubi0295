@@ -13,11 +13,6 @@
 <p><a href = "https://github.com/MikolajSzuper/FrontendInzynierka">Projekt współtwórcy aplikacji magazynowej z wykorzystaniem znaczników RFID Frontend</a></p>  
 
 
-###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-be">Projekt sklepu internetowe w architekturze mikroserwisów Backend</a></p>  
-<p><a href = "https://github.com/Hubi0295/projektwspolny-fe">Projekt sklepu internetowe w architekturze mikroserwisów Frontend</a></p>  
-
-
 ###  🚀 JavaScript(NodeJS, Express, React) | MongoDB University project
 <p><a href = "https://github.com/Hubi0295/projektintegracjabe">Projekt aplikacji do porównywania wskaźników makroekonomicznych oraz świadczeń społecznych z użyciem danych zewnętrznych dostawców Backend</a></p>  
 <p><a href = "https://github.com/Hubi0295/projektintegracjafe">Projekt aplikacji do porównywania wskaźników makroekonomicznych oraz świadczeń społecznych z użyciem danych zewnętrznych dostawców Frontend</a></p>  
