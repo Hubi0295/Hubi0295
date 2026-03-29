@@ -51,11 +51,11 @@
 
 ##                                                                    Software  
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-|      01.07.2025       | **(2025) Angular i Java Spring Od zera do Fullstack developera**    | 📍Udemy                                                    | ✅Certificate of Course Completion  
-|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               | ✅Certificate of Course Completion  
-|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               | ✅Certificate of Course Completion  
-|      14.03.2024       | **Java - Spring Framework**                                 | 📍Udemy                                                     | ✅Certificate of Course Completion  
-|      3.02.2024       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                     | ✅Certificate of Course Completion
+|      01.07.2025       | **(2025) Angular i Java Spring Od zera do Fullstack developera**    | 📍Udemy                                                    
+|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 1**                        | 📍PluralSight                                               
+|      9.02.2025       | **SQL Server 2012 Querying (70-461) Part 2**                       | 📍PluralSight                                               
+|      14.03.2024       | **Java - Spring Framework**                                 | 📍Udemy                                                     
+|      3.02.2024       | **Kurs Selenium Java od podstaw**                                   | 📍Udemy                                                    
 
 
 ##                                                   Cybersecurity, Networking, Administration  
