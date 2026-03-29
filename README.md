@@ -1,19 +1,16 @@
 <h1 align="center">Hi, I'm Hubert</h1>
-<h3 align="center">Computer Science student at Politechnika Lubelska</h3>
+<h3 align="center">MSc Computer Science Student at Politechnika Lubelska</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubi0295&label=Profile%20views&color=0e75b6&style=flat" alt="hubi0295" /> </p>
 
-- 🌱 I’m currently learning **Java**, **SpringBoot**, **React**, **Docker**
-
 - 📫 How to reach me **https://www.linkedin.com/in/hubert-szelepusta/**
-
 
 #  ⭐Projects
 
 
 ###  🚀 Java(Spring) | Typescript(Angular) | Postgres Bachelor’s engineering thesis
-<p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Backend Under construction</a></p>  
-<p><a href = "https://github.com/Hubi0295">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Frontend Under construction</a></p>  
+<p><a href = "https://github.com/Hubi0295/Inzynierka">Projekt aplikacji magazynowej z wykorzystaniem znaczników RFID Backend</a></p>  
+<p><a href = "https://github.com/MikolajSzuper/FrontendInzynierka">Projekt współtwórcy aplikacji magazynowej z wykorzystaniem znaczników RFID Frontend</a></p>  
 
 
 ###  🚀 Java(Spring) | Typescript(Angular) | Postgres UDEMY COURSE  
@@ -63,25 +60,24 @@
 
 ##                                                   Cybersecurity, Networking, Administration  
 ----------------------------------------------------------------------------------------------------------------------------------------------
-|      9.02.2025       | **Ekspert bezpieczeństwa OSSTMM**                                | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
-|      17.01.2025       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
-|      15.12.2024       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
-|      17.11.2024       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil | ✅Certificate of Training Completion   
-|      18.02.2025       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                    | ✅Certificate of Course Completion   
-|      19.11.2024       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      01.11.2024       | **Networking Basics**                                               | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      22.10.2024       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                     | ✅Certificate of Course Completion  
-|      21.10.2024       | **Wprowadzenie do cyberbezpieczeństwa**                             | 📍CISCO                                                     | ✅Certificate of Course Completion  
+|      9.02.2025       | **Ekspert bezpieczeństwa OSSTMM**                                | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil 
+|      17.01.2025       | **Bezpieczeństwo systemu Linux**                                    | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil
+|      15.12.2024       | **Bezpieczeństwo systemu Windows**                          | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil
+|      17.11.2024       | **Akademia Bezpieczeństwa**                                         | 📍Eksperckie Centrum Szkolenia Cyberbezpieczeństwa CyberMil
+|      18.02.2025       | **Red Hat System Administration I RH124**                           | 📍RedHat                                                   
+|      19.11.2024       | **Networking Devices and Initial Configuration**                  | 📍CISCO                                                    
+|      01.11.2024       | **Networking Basics**                                               | 📍CISCO                                                    
+|      22.10.2024       | **Wprowadzenie do IoT i transformacji cyfrowej**                    | 📍CISCO                                                    
+|      21.10.2024       | **Wprowadzenie do cyberbezpieczeństwa**                             | 📍CISCO                                                    
 
 
 ##                                                   Artificial Intelligence
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
-|      20.03.2025 - 30.06.2025       | **Praktyczne zastosowania i integracja z modelami LLM**           | 📍Politechnika Lubelska & Sollers Consulting    | ✅Certificate of Course Completion 
-
+|      20.03.2025 - 30.06.2025       | **Praktyczne zastosowania i integracja z modelami LLM**           | 📍Politechnika Lubelska & Sollers Consulting   
 
 ##                                                   English
 ---------------------------------------------------------------------------------------------------------------------------------------------- 
-|      01.10.2024 - 14.06.2025       | **B2 English Course**                        | 📍Avalon    | ✅Certificate of Course Completion  
+|      01.10.2024 - 14.06.2025       | **B2 English Course**                        | 📍Avalon   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
